@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Geneviê 👩🏻‍💻</h1>
 <h3 align="center">Estou em busca de experiências na área de tecnologia</h3>
 
-- 💼 Eu estou trabalhando como analista de implantação na **Inforejo Franquia Linx**
+- 💼 Eu estou trabalhando como analista de implantação
 
 - 📚 Estou estudando Python e SQL **Alura**
 
