@@ -1,5 +1,4 @@
 <h1 align="center">Olá, me chamo Geneviê 👩🏻‍💻</h1>
-<h3 align="center">Estou em busca de experiência na área de dados</h3>
 
 - 💼 Eu estou trabalhando como analista de implantação
 
