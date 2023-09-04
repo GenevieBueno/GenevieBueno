@@ -4,7 +4,7 @@
 
 - 📚 Estou estudando desenvolvimento WEB na **Rocketseat**
 
-- 👩🏻‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas na **Unisociesc
+- 👩🏻‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas na **Unisociesc**
 
 - 📝 Eu escrevo regularmente artigos para o Instagram Girls in Tech [https://www.instagram.com/girls.intech/](https://www.instagram.com/girls.intech/)
   
